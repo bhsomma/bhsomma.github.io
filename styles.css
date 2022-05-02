@@ -13,7 +13,7 @@ body {
     margin: 0 auto;
     width: 100vw;
     height: 45%;
-    background: #6A878B;
+    background: #993a50;
 }
 
 #banner-wrapper {
@@ -22,7 +22,7 @@ body {
 }
 
 .resume-item {
-    border-left: 2px solid #6A878B;
+    border-left: 2px solid #993a50;
     position: relative;
     line-height: 1.6;
     padding-left: 15px;
@@ -43,8 +43,8 @@ h2 {
 
 h3 {
     margin: 0;
-    color: #6A878B;
-    border-image: linear-gradient( to right, #6A878B, rgba(0, 0, 0, 0) ) 0 1 100%;
+    color: #993a50;
+    border-image: linear-gradient( to right, #993a50, rgba(0, 0, 0, 0) ) 0 1 100%;
     border-style: solid;
     border-width: 1.5px;
 }
@@ -94,7 +94,7 @@ h3 {
 .bottom-banner {
     opacity: 25%;
     height: 10%;
-    border-top: 2px solid #6A878B;
+    border-top: 2px solid #993a50;
     line-height: 1.6;
     margin-left: 8%;
     margin-right: 8%;
